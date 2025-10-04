@@ -1,4 +1,4 @@
-# Sentiment Analyzer 😊😞😐
+# MoodMeter 😊😞😐
 
 My first AI project built from absolute zero! This program analyzes text and tells whether it's positive, negative, or neutral.
 
